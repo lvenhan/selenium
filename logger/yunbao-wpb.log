@@ -1,0 +1,6 @@
+2017-07-26 16:50:21,250 LogManager.py[line:31] DEBUG 进入首页失败
+2017-08-07 15:50:34,072 LogManager.py[line:34] WARNING 支付失败
+2017-08-07 16:11:30,134 LogManager.py[line:34] WARNING 支付失败
+2017-08-07 19:24:21,174 LogManager.py[line:34] WARNING 支付失败
+2017-08-07 19:26:11,914 LogManager.py[line:34] WARNING 支付失败
+2017-08-07 19:28:57,160 LogManager.py[line:34] WARNING 支付失败
